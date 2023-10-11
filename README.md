@@ -1,1 +1,0 @@
-# juegosetec.github.io
