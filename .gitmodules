@@ -1,0 +1,3 @@
+[submodule "bitsy"]
+	path = bitsy
+	url = git@github.com:le-doux/bitsy.git
