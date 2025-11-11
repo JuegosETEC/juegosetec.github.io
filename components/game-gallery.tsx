@@ -23,7 +23,7 @@ const games: InfoGame[] = [
     motor: "TIC-80",
     nombre: "Correr o Mueres",
     estudiantes: "Rodriguez, Santiago (3B)",
-    link: "/2025/placeholder.html",
+    link: "/2025/correr_o_mueres.html",
     year: 2025,
   },
   // 2024
