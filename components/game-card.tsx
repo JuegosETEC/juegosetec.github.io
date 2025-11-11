@@ -30,7 +30,7 @@ export function GameCard({ nombre, estudiantes, thumbnail }: GameCardProps) {
           <h3 className="text-2xl font-bold mb-1 text-balance" style={{ color: "#FEFEFE" }}>
             {nombre}
           </h3>
-          <p className="text-sm font-light" style={{ color: "#34C9E2" }}>
+          <p className="text-sm font-light" style={{ color: "#FEFEFE" }}>
             {estudiantes}
           </p>
         </div>
