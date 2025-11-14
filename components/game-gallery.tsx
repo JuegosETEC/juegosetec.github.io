@@ -53,6 +53,24 @@ const games: InfoGame[] = [
     link: "/2025/slime.html",
     year: 2025,
   },
+  {
+    id: "proyecto_rv",
+    thumbnail: "/2025/thumbs/proyecto_rv.gif",
+    motor: "TIC-80",
+    nombre: "Proyecto RV",
+    estudiantes: "Ramirez Villca, Juan Gabriel (3D)",
+    link: "/2025/proyecto_rv.html",
+    year: 2025,
+  },
+  {
+    id: "laberinto_extranio",
+    thumbnail: "/2025/thumbs/laberinto_extranio.gif",
+    motor: "TIC-80",
+    nombre: "Un Laberinto Extraño",
+    estudiantes: "Morales, Sergio; Santa Cruz, Florentino (3D)",
+    link: "/2025/laberinto_extranio.html",
+    year: 2025,
+  },
   // 2024
   {
     id: "conejo",
