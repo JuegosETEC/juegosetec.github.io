@@ -40,8 +40,17 @@ const games: InfoGame[] = [
     thumbnail: "/2025/thumbs/rescata_gatito.gif",
     motor: "TIC-80",
     nombre: "Rescata Gatito",
-    estudiantes: "Fonceca, Britany; Soto, Lourdes (4D)",
+    estudiantes: "Fonceca, Brittany; Soto, Lourdes (4D)",
     link: "/2025/rescata_gatito.html",
+    year: 2025,
+  },
+  {
+    id: "slime",
+    thumbnail: "/2025/thumbs/slime.gif",
+    motor: "TIC-80",
+    nombre: "Slime",
+    estudiantes: "Aragón, Dylan; Luque, Yamil (3D)",
+    link: "/2025/slime.html",
     year: 2025,
   },
   // 2024
