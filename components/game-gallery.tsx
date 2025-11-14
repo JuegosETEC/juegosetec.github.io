@@ -71,6 +71,24 @@ const games: InfoGame[] = [
     link: "/2025/laberinto_extranio.html",
     year: 2025,
   },
+  {
+    id: "raton",
+    thumbnail: "/2025/thumbs/raton.gif",
+    motor: "TIC-80",
+    nombre: "Ratón Toma Queso",
+    estudiantes: "Costano, Fabricio; Herrera Ojeda, Jonathan (3B)",
+    link: "/2025/raton.html",
+    year: 2025,
+  },
+  {
+    id: "medusa",
+    thumbnail: "/2025/thumbs/medusa.gif",
+    motor: "TIC-80",
+    nombre: "Medusa",
+    estudiantes: "Bachmann, Milo; Condori Blanco, Madeleine Alba (4D)",
+    link: "/2025/medusa.html",
+    year: 2025,
+  },
   // 2024
   {
     id: "conejo",
