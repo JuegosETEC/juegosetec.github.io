@@ -89,6 +89,24 @@ const games: InfoGame[] = [
     link: "/2025/medusa.html",
     year: 2025,
   },
+  {
+    id: "lora_suby",
+    thumbnail: "/2025/thumbs/lora_suby.gif",
+    motor: "TIC-80",
+    nombre: "La Lora Suby",
+    estudiantes: "Mamani Quispe, Juan Nicolás; Patzi Ticona, Henry (3B)",
+    link: "/2025/lora_suby.html",
+    year: 2025,
+  },
+  {
+    id: "starwars",
+    thumbnail: "/2025/thumbs/starwars.gif",
+    motor: "TIC-80",
+    nombre: "Star Wars",
+    estudiantes: "Mosquera, Joaquín (3B)",
+    link: "/2025/starwars.html",
+    year: 2025,
+  },
   // 2024
   {
     id: "conejo",
