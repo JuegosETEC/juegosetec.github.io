@@ -18,6 +18,15 @@ type InfoGame = {
 const games: InfoGame[] = [
   // 2026
   {
+    id: "cremin",
+    thumbnail: "/2026/thumbs/cremin.gif",
+    motor: "TIC-80",
+    nombre: "The Legend of Cremin",
+    estudiantes: "Condori, Giselle; Chavez, Alan; Hermocilla, Valentina; Paredes, Noelia; Pariguana, Anali (4D)",
+    link: "/2026/cremin.html",
+    year: 2026,
+  },
+  {
     id: "block_breaker",
     thumbnail: "/2026/thumbs/block_breaker.gif",
     motor: "TIC-80",
