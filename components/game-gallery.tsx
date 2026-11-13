@@ -16,6 +16,43 @@ type InfoGame = {
 };
 
 const games: InfoGame[] = [
+  // 2026
+  {
+    id: "ataque",
+    thumbnail: "/2026/thumbs/ataque.gif",
+    motor: "TIC-80",
+    nombre: "Ataque",
+    estudiantes: "Prado, Facundo; Mosquera, Joaquin; Brate, Angel Santino; Costano, Fabrizio (4B)",
+    link: "/2026/ataque.html",
+    year: 2026,
+  },
+  {
+    id: "alacranes",
+    thumbnail: "/2026/thumbs/alacranes.gif",
+    motor: "TIC-80",
+    nombre: "Escapa de los Alacranes",
+    estudiantes: "Julián Impelluso (profesor)",
+    link: "/2026/alacranes.html",
+    year: 2026,
+  },
+  {
+    id: "tanques",
+    thumbnail: "/2026/thumbs/tanques.gif",
+    motor: "TIC-80",
+    nombre: "Tanques",
+    estudiantes: "Julián Impelluso (profesor)",
+    link: "/2026/tanques.html",
+    year: 2026,
+  },
+  {
+    id: "aventura",
+    thumbnail: "/2026/thumbs/aventura.gif",
+    motor: "TIC-80",
+    nombre: "Aventura",
+    estudiantes: "Julián Impelluso (profesor)",
+    link: "/2026/aventura.html",
+    year: 2026,
+  },
   // 2025
   {
     id: "correr_o_mueres",
