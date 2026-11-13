@@ -18,6 +18,15 @@ type InfoGame = {
 const games: InfoGame[] = [
   // 2026
   {
+    id: "block_breaker",
+    thumbnail: "/2026/thumbs/block_breaker.gif",
+    motor: "TIC-80",
+    nombre: "Block Breaker",
+    estudiantes: "Santa Cruz, Florentino (4D)",
+    link: "/2026/block_breaker.html",
+    year: 2026,
+  },
+  {
     id: "ataque",
     thumbnail: "/2026/thumbs/ataque.gif",
     motor: "TIC-80",
