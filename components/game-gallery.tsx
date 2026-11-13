@@ -18,6 +18,15 @@ type InfoGame = {
 const games: InfoGame[] = [
   // 2026
   {
+    id: "annoying_void",
+    thumbnail: "/2026/thumbs/annoying_void.gif",
+    motor: "TIC-80",
+    nombre: "An Annoying Void",
+    estudiantes: "Condori, Eikky; Ramirez, Juan; Rodriguez,	Santiago (4D)",
+    link: "/2026/annoying_void.html",
+    year: 2026,
+  },
+  {
     id: "cremin",
     thumbnail: "/2026/thumbs/cremin.gif",
     motor: "TIC-80",
