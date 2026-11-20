@@ -17,6 +17,16 @@ type InfoGame = {
 
 const games: InfoGame[] = [
   // 2026
+ {
+
+    id: "amongous",
+    thumbnail: "/2026/thumbs/amongous.gif",
+    motor: "TIC-80",
+    nombre: "Proyecto Amongous",
+    estudiantes: "Gallardo, Isaías; Franchi, Lorenzo (3B)",
+    link: "/2026/amongous.html",
+    year: 2026,
+  },
   {
     id: "annoying_void",
     thumbnail: "/2026/thumbs/annoying_void.gif",
